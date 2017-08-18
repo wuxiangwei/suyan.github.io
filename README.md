@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[http://wuxiangwei.cn](http://wuxiangwei.cn)
 
 ### 安装说明
 
@@ -16,3 +16,17 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+
+
+### 安装说明
+
+1. 安装gem，执行 `apt-get install ruby`命令；
+2. 更换gem源。
+```
+gem source -l
+gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
+```
+3. 升级ruby。先安装rvm，再执行`rvm install 2.3`命令;
+
+
+
